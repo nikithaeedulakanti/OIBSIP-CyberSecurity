@@ -17,6 +17,11 @@ The vulnerability lifecycle describes the stages from the discovery of a securit
 
 Applying patches at the right time reduces the opportunity for attackers to exploit known vulnerabilities.
 ## Why Patches Matter
+Software vulnerabilities are security weaknesses that can be exploited by attackers to gain unauthorized access, steal data, or disrupt services. Security researchers and software vendors continuously identify these vulnerabilities.
+
+After a vulnerability is discovered, it is assigned a CVE (Common Vulnerabilities and Exposures) identifier. The severity of the vulnerability is commonly measured using the Common Vulnerability Scoring System (CVSS), which helps organizations prioritize patches based on risk.
+
+If organizations fail to install security patches promptly, attackers can exploit these known vulnerabilities, leading to cyberattacks such as ransomware infections, data breaches, and system compromise.
 ## Real-World Examples
 ## Consequences of Not Patching
 ## Patch Management Lifecycle
