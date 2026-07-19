@@ -68,5 +68,16 @@ The following best practices help organizations maintain an effective patch mana
 6. Verify successful installation after deployment.
 7. Maintain documentation and regularly review the patch management process.
 ## Challenges
+Organizations often face several challenges when implementing patch management.
+
+| Challenge | Solution |
+|-----------|----------|
+| Legacy systems | Upgrade or isolate unsupported systems. |
+| Downtime concerns | Schedule updates during maintenance windows. |
+| Compatibility issues | Test patches before deployment. |
+| Large number of devices | Use automated patch management tools. |
+| Limited IT resources | Prioritize critical systems and automate repetitive tasks. |
+
+By addressing these challenges with proper planning and automation, organizations can improve their patch management process and reduce security risks.
 ## Conclusion
 ## References
