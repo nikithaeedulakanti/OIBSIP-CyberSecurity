@@ -23,6 +23,13 @@ After a vulnerability is discovered, it is assigned a CVE (Common Vulnerabilitie
 
 If organizations fail to install security patches promptly, attackers can exploit these known vulnerabilities, leading to cyberattacks such as ransomware infections, data breaches, and system compromise.
 ## Real-World Examples
+### 1. WannaCry Ransomware Attack (2017)
+
+The WannaCry ransomware attack affected more than 200,000 computers across over 150 countries. It exploited the EternalBlue vulnerability in Microsoft Windows (CVE-2017-0144). Although Microsoft had released a security patch before the attack, many organizations failed to install it. As a result, hospitals, businesses, and government organizations experienced major disruptions and financial losses.
+
+### 2. Equifax Data Breach (2017)
+
+The Equifax breach occurred because attackers exploited an unpatched vulnerability in Apache Struts (CVE-2017-5638). The company delayed applying the available security patch, allowing attackers to steal sensitive personal information of approximately 147 million people. This incident resulted in significant financial penalties and damage to the company's reputation.
 ## Consequences of Not Patching
 ## Patch Management Lifecycle
 ## Best Practices
