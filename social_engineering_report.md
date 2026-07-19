@@ -98,3 +98,14 @@ The Stuxnet worm spread through infected USB drives to target industrial control
 1. Never connect unknown USB devices to your computer.
 2. Download software only from trusted and official websites.
 3. Use updated antivirus software and disable AutoRun for removable devices.
+## Quid Pro Quo (Bonus)
+
+### Definition
+
+Quid Pro Quo is a social engineering attack where an attacker offers a service, reward, or benefit in exchange for sensitive information. For example, an attacker may pretend to be an IT support technician and offer to fix a computer problem while asking the victim for login credentials.
+
+### Prevention
+
+1. Verify the identity of anyone offering technical support.
+2. Never share passwords or confidential information in exchange for services.
+3. Contact the official IT department before accepting any assistance.
