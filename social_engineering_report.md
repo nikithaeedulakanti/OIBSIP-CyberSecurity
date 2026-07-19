@@ -109,3 +109,11 @@ Quid Pro Quo is a social engineering attack where an attacker offers a service, 
 1. Verify the identity of anyone offering technical support.
 2. Never share passwords or confidential information in exchange for services.
 3. Contact the official IT department before accepting any assistance.
+## Comparison of Social Engineering Attacks
+
+| Attack Type | Primary Target | Psychological Lever Exploited | Best Countermeasure |
+|-------------|---------------|-------------------------------|---------------------|
+| Phishing | Email and Internet Users | Trust, Fear, Urgency | Verify emails and use MFA |
+| Pretexting | Employees and Customers | Trust and Authority | Verify identity before sharing information |
+| Baiting | Curious Users | Curiosity and Greed | Avoid unknown USB drives and fake downloads |
+| Quid Pro Quo | Employees | Helpfulness and Trust | Use official support channels |
