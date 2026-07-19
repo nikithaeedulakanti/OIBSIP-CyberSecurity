@@ -117,3 +117,10 @@ Quid Pro Quo is a social engineering attack where an attacker offers a service, 
 | Pretexting | Employees and Customers | Trust and Authority | Verify identity before sharing information |
 | Baiting | Curious Users | Curiosity and Greed | Avoid unknown USB drives and fake downloads |
 | Quid Pro Quo | Employees | Helpfulness and Trust | Use official support channels |
+## Organisational Recommendations
+
+1. Conduct regular cybersecurity awareness training for all employees.
+2. Perform simulated phishing exercises to test employee awareness.
+3. Implement Multi-Factor Authentication (MFA) across all important systems.
+4. Establish a clear incident reporting process for suspicious activities.
+5. Keep all software, operating systems, and security tools updated.
