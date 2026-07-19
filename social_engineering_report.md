@@ -50,3 +50,26 @@ In 2011, RSA Security suffered a major cyberattack through a spear phishing emai
 2. Never click suspicious links or download unknown attachments.
 3. Enable Multi-Factor Authentication (MFA) for important accounts.
 4. Provide regular cybersecurity awareness training to employees.
+## Pretexting
+
+### Definition
+
+Pretexting is a social engineering attack in which an attacker creates a false identity or fake scenario to gain the victim's trust and obtain sensitive information. The attacker may pretend to be a bank employee, IT support staff, police officer, or company executive.
+
+### How an Attacker Builds a False Scenario
+
+1. The attacker collects information about the target.
+2. The attacker creates a believable fake identity.
+3. The attacker contacts the victim by phone, email, or in person.
+4. The attacker gains the victim's trust.
+5. The victim shares confidential information or performs the requested action.
+
+### Real-World Case Study: Ubiquiti Networks Scam (2015)
+
+In 2015, cybercriminals impersonated company executives and used fake emails to convince employees to transfer money to fraudulent bank accounts. The company lost approximately $46.7 million due to this social engineering attack.
+
+### Prevention Measures
+
+1. Always verify the identity of anyone requesting sensitive information.
+2. Never share passwords or confidential information without proper verification.
+3. Train employees to recognize impersonation and social engineering techniques.
