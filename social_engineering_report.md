@@ -73,3 +73,28 @@ In 2015, cybercriminals impersonated company executives and used fake emails to 
 1. Always verify the identity of anyone requesting sensitive information.
 2. Never share passwords or confidential information without proper verification.
 3. Train employees to recognize impersonation and social engineering techniques.
+## Baiting
+
+### Definition
+
+Baiting is a social engineering attack that exploits human curiosity or greed by offering something attractive, such as free software, free movies, or USB drives, to trick victims into installing malware or revealing sensitive information.
+
+### Types of Baiting
+
+#### 1. Physical Baiting
+
+In physical baiting, attackers leave infected USB drives or storage devices in public places such as offices, parking lots, or reception areas. When someone plugs the device into a computer, malware is automatically installed.
+
+#### 2. Digital Baiting
+
+Digital baiting involves fake downloads, pirated software, free games, or fake advertisements that contain malicious software. Victims unknowingly download malware onto their devices.
+
+### Real-World Case Study: Stuxnet USB Attack
+
+The Stuxnet worm spread through infected USB drives to target industrial control systems. It infected computers when users connected compromised USB devices, demonstrating how dangerous physical baiting attacks can be.
+
+### Prevention Measures
+
+1. Never connect unknown USB devices to your computer.
+2. Download software only from trusted and official websites.
+3. Use updated antivirus software and disable AutoRun for removable devices.
