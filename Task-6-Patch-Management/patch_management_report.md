@@ -41,6 +41,22 @@ Failure to apply security patches can have serious consequences for organization
 
 According to IBM's Cost of a Data Breach Report, the average cost of a data breach remains in the millions of US dollars, highlighting the importance of timely patch management.
 ## Patch Management Lifecycle
+Patch management follows a structured lifecycle to ensure that updates are applied safely and effectively.
+
+### 1. Discovery
+Identify all hardware, operating systems, applications, and devices that require security updates.
+
+### 2. Assessment
+Evaluate newly released patches, determine the severity of vulnerabilities, and prioritize critical updates.
+
+### 3. Testing
+Install patches in a testing environment to ensure they do not cause compatibility or performance issues.
+
+### 4. Deployment
+Deploy the approved patches to production systems according to the organization's patch management policy.
+
+### 5. Verification
+Confirm that patches have been installed successfully and verify that the vulnerabilities have been resolved.
 ## Best Practices
 ## Challenges
 ## Conclusion
