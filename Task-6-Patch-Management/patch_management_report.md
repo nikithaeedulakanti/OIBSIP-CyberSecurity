@@ -31,6 +31,15 @@ The WannaCry ransomware attack affected more than 200,000 computers across over 
 
 The Equifax breach occurred because attackers exploited an unpatched vulnerability in Apache Struts (CVE-2017-5638). The company delayed applying the available security patch, allowing attackers to steal sensitive personal information of approximately 147 million people. This incident resulted in significant financial penalties and damage to the company's reputation.
 ## Consequences of Not Patching
+Failure to apply security patches can have serious consequences for organizations, including:
+
+- Data breaches resulting in the loss of sensitive information.
+- Ransomware attacks that encrypt critical business data.
+- Financial losses due to recovery costs, legal penalties, and operational downtime.
+- Compliance violations with security regulations and industry standards.
+- Damage to an organization's reputation and loss of customer trust.
+
+According to IBM's Cost of a Data Breach Report, the average cost of a data breach remains in the millions of US dollars, highlighting the importance of timely patch management.
 ## Patch Management Lifecycle
 ## Best Practices
 ## Challenges
