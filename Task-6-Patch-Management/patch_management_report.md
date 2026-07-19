@@ -2,3 +2,4 @@
 
 ## Research Report
 ## Introduction
+## Patch Management and the Vulnerability Lifecycle
