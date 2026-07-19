@@ -4,3 +4,4 @@
 ## Introduction
 ## Patch Management and the Vulnerability Lifecycle
 ## Why Patches Matter
+## Real-World Examples
