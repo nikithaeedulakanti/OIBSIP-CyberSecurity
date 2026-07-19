@@ -124,3 +124,10 @@ Quid Pro Quo is a social engineering attack where an attacker offers a service, 
 3. Implement Multi-Factor Authentication (MFA) across all important systems.
 4. Establish a clear incident reporting process for suspicious activities.
 5. Keep all software, operating systems, and security tools updated.
+## References
+
+1. CISA – Social Engineering Guidance
+2. SANS Reading Room – Social Engineering Research Papers
+3. Verizon Data Breach Investigations Report (DBIR)
+4. Wired – RSA SecurID Spear Phishing Attack (2011)
+5. Dark Reading – Social Engineering Case Studies
