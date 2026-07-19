@@ -8,3 +8,4 @@
 ## Consequences of Not Patching
 ## Patch Management Lifecycle
 ## Best Practices
+## Challenges
