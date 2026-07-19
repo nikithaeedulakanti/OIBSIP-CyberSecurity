@@ -40,3 +40,13 @@ Smishing (SMS Phishing) uses fake text messages containing malicious links or re
 3. The victim clicks the malicious link or opens an attachment.
 4. The victim enters sensitive information.
 5. The attacker steals the information and gains unauthorized access.
+### Real-World Case Study: RSA SecurID Attack (2011)
+
+In 2011, RSA Security suffered a major cyberattack through a spear phishing email. Employees received an email with the subject "2011 Recruitment Plan" containing a malicious Excel attachment. One employee opened the attachment, which installed malware on the company's network. The attackers stole confidential information related to RSA's SecurID authentication system, affecting many organizations worldwide.
+
+### Prevention Recommendations
+
+1. Verify the sender's email address before opening emails.
+2. Never click suspicious links or download unknown attachments.
+3. Enable Multi-Factor Authentication (MFA) for important accounts.
+4. Provide regular cybersecurity awareness training to employees.
