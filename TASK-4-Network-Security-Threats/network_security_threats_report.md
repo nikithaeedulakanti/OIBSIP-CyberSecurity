@@ -42,6 +42,7 @@ A well-known example of a MITM attack is the Lenovo Superfish incident (2015). S
 ## IP Spoofing
 
 ### Explanation
+IP Spoofing is a technique in which an attacker changes the source IP address of network packets to make them appear as if they are coming from a trusted device. This helps attackers hide their identity, bypass security controls, or launch attacks such as DDoS attacks. Since the IP address appears legitimate, it becomes difficult to identify the real attacker.
 
 ### Real-World Example
 
