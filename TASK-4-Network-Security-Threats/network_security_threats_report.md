@@ -53,7 +53,9 @@ IP spoofing has been widely used in Distributed Reflection Denial-of-Service (DR
 - Frequently used in DDoS and reflection attacks.
 - May lead to network disruption and data loss.
 ### Mitigation Strategies
-
+1. Implement Ingress and Egress Filtering.
+2. Configure packet filtering on routers and firewalls.
+3. Use authentication protocols that verify the sender's identity.
 ## DNS Poisoning / DNS Spoofing
 
 ### Explanation
