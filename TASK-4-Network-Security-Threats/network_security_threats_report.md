@@ -26,6 +26,7 @@ One of the most well-known DDoS attacks occurred in 2016 against Dyn, a major DN
 A Man-in-the-Middle (MITM) attack occurs when an attacker secretly intercepts the communication between two parties without their knowledge. The attacker can monitor, modify, or steal sensitive information such as usernames, passwords, banking details, and personal data. MITM attacks commonly occur on unsecured public Wi-Fi networks where attackers can easily intercept network traffic.
 
 ### Real-World Example
+A well-known example of a MITM attack is the Lenovo Superfish incident (2015). Superfish software installed on Lenovo laptops used a weak root certificate, allowing attackers on the same network to intercept encrypted HTTPS connections. This exposed users to potential data theft and security risks.
 
 ### Impact
 
