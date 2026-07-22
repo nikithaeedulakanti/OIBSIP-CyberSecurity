@@ -7,6 +7,7 @@ Network security threats have become one of the biggest challenges for individua
 ### Explanation
 A Denial-of-Service (DoS) attack is an attack in which a single system sends a large amount of traffic or requests to a target server, making it unavailable to legitimate users. A Distributed Denial-of-Service (DDoS) attack is similar, but the traffic comes from multiple compromised systems, often called a botnet. Because thousands of devices participate in the attack, DDoS attacks are more powerful and difficult to stop.
 ### Real-World Example
+One of the most well-known DDoS attacks occurred in 2016 against Dyn, a major DNS service provider. Attackers used the Mirai botnet, which consisted of thousands of infected IoT devices, to flood Dyn with traffic. This attack disrupted access to popular services such as Twitter, Netflix, Reddit, and Spotify.
 
 ### Impact
 
