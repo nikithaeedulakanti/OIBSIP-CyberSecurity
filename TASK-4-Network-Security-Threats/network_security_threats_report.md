@@ -4,10 +4,8 @@
 Network security threats have become one of the biggest challenges for individuals, businesses, and governments due to the increasing reliance on internet-based services. Attackers use various techniques to disrupt services, steal sensitive information, or gain unauthorized access to systems. These attacks can lead to financial losses, data breaches, reputational damage, and interruptions to critical operations. As cyberattacks continue to evolve in complexity and frequency, organizations must understand common network threats and implement effective security measures to protect their systems, networks, and users.
 
 ## DoS and DDoS Attacks
-A Denial-of-Service (DoS) attack is an attack in which a single system sends a large amount of traffic or requests to a target server, making it unavailable to legitimate users. A Distributed Denial-of-Service (DDoS) attack is similar, but the traffic comes from multiple compromised systems, often called a botnet. Because thousands of devices participate in the attack, DDoS attacks are more powerful and difficult to stop.
-
 ### Explanation
-
+A Denial-of-Service (DoS) attack is an attack in which a single system sends a large amount of traffic or requests to a target server, making it unavailable to legitimate users. A Distributed Denial-of-Service (DDoS) attack is similar, but the traffic comes from multiple compromised systems, often called a botnet. Because thousands of devices participate in the attack, DDoS attacks are more powerful and difficult to stop.
 ### Real-World Example
 
 ### Impact
