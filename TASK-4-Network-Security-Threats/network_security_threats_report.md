@@ -35,6 +35,9 @@ A well-known example of a MITM attack is the Lenovo Superfish incident (2015). S
 - Organizations may suffer financial and reputational damage.
 
 ### Mitigation Strategies
+1. Always use HTTPS websites with valid SSL/TLS certificates.
+2. Use a Virtual Private Network (VPN), especially on public Wi-Fi.
+3. Enable Multi-Factor Authentication (MFA) to protect user accounts.
 
 ## IP Spoofing
 
