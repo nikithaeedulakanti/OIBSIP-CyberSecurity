@@ -29,6 +29,10 @@ A Man-in-the-Middle (MITM) attack occurs when an attacker secretly intercepts th
 A well-known example of a MITM attack is the Lenovo Superfish incident (2015). Superfish software installed on Lenovo laptops used a weak root certificate, allowing attackers on the same network to intercept encrypted HTTPS connections. This exposed users to potential data theft and security risks.
 
 ### Impact
+- Sensitive information such as passwords and credit card details can be stolen.
+- Attackers can modify data being transmitted between users and servers.
+- User privacy is compromised.
+- Organizations may suffer financial and reputational damage.
 
 ### Mitigation Strategies
 
