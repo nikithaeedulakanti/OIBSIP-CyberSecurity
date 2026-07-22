@@ -73,7 +73,29 @@ The Kaminsky DNS Cache Poisoning Attack (2008) exposed a major weakness in the D
 2. Regularly update and secure DNS servers.
 3. Monitor DNS traffic and protect DNS caches from unauthorized modifications.
 ## Comparison Table
-
+| Threat | Attack Vector | Who is at Risk | Difficulty to Execute | Ease of Mitigation |
+|---------|---------------|----------------|-----------------------|--------------------|
+| DoS/DDoS | Flooding network traffic with excessive requests | Websites, Online Services, Businesses | Medium | Medium |
+| MITM | Intercepting communication between two parties | Public Wi-Fi Users, Organizations | Medium | Easy |
+| IP Spoofing | Sending packets with a fake IP address | Organizations, Network Administrators | Medium | Medium |
+| DNS Poisoning | Modifying DNS records or cache | Internet Users, Organizations | High | Medium |
 ## Conclusion
+Network security threats continue to evolve and pose significant risks to individuals and organizations. Understanding attacks such as DoS/DDoS, MITM, IP Spoofing, and DNS Poisoning helps administrators identify vulnerabilities and implement effective security measures. Regular monitoring, timely software updates, strong authentication, encryption, and user awareness are essential to protecting networks from modern cyber threats.
 
+### Key Takeaways for Network Administrators
+
+1. Continuously monitor network traffic to detect suspicious activities.
+2. Implement strong security controls such as firewalls, encryption, VPNs, and Multi-Factor Authentication (MFA).
+3. Keep systems, DNS servers, and network devices updated with the latest security patches.
 ## References
+1. National Institute of Standards and Technology (NIST). Computer Security Resource Center. https://csrc.nist.gov/
+
+2. Cybersecurity and Infrastructure Security Agency (CISA). https://www.cisa.gov/
+
+3. MITRE ATT&CK Framework. https://attack.mitre.org/
+
+4. SANS Institute Reading Room. https://www.sans.org/reading-room/
+
+5. Krebs on Security. https://krebsonsecurity.com/
+
+6. WIRED Magazine – Cybersecurity Articles. https://www.wired.com/tag/security/
