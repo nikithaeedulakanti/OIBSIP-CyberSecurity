@@ -23,6 +23,7 @@ One of the most well-known DDoS attacks occurred in 2016 against Dyn, a major DN
 ## Man-in-the-Middle (MITM) Attacks
 
 ### Explanation
+A Man-in-the-Middle (MITM) attack occurs when an attacker secretly intercepts the communication between two parties without their knowledge. The attacker can monitor, modify, or steal sensitive information such as usernames, passwords, banking details, and personal data. MITM attacks commonly occur on unsecured public Wi-Fi networks where attackers can easily intercept network traffic.
 
 ### Real-World Example
 
