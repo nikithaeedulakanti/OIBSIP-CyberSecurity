@@ -16,6 +16,9 @@ One of the most well-known DDoS attacks occurred in 2016 against Dyn, a major DN
 - Business operations can be interrupted for extended periods.
 
 ### Mitigation Strategies
+1. Use firewalls and intrusion prevention systems.
+2. Deploy DDoS protection services and traffic filtering.
+3. Use load balancing and content delivery networks (CDNs) to distribute traffic.
 
 ## Man-in-the-Middle (MITM) Attacks
 
