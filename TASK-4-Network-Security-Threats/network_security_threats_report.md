@@ -48,7 +48,10 @@ IP Spoofing is a technique in which an attacker changes the source IP address of
 IP spoofing has been widely used in Distributed Reflection Denial-of-Service (DRDoS) attacks. In these attacks, attackers spoof the victim's IP address and send requests to public DNS or NTP servers. The servers then send large responses to the victim, overwhelming the victim's network and causing service disruption.
 
 ### Impact
-
+- Hides the attacker's real identity.
+- Can bypass IP-based security controls.
+- Frequently used in DDoS and reflection attacks.
+- May lead to network disruption and data loss.
 ### Mitigation Strategies
 
 ## DNS Poisoning / DNS Spoofing
