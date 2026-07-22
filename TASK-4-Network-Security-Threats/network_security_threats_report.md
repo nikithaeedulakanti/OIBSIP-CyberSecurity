@@ -10,6 +10,10 @@ A Denial-of-Service (DoS) attack is an attack in which a single system sends a l
 One of the most well-known DDoS attacks occurred in 2016 against Dyn, a major DNS service provider. Attackers used the Mirai botnet, which consisted of thousands of infected IoT devices, to flood Dyn with traffic. This attack disrupted access to popular services such as Twitter, Netflix, Reddit, and Spotify.
 
 ### Impact
+- Websites and online services become unavailable.
+- Organizations may suffer financial losses due to downtime.
+- Customers lose trust in affected services.
+- Business operations can be interrupted for extended periods.
 
 ### Mitigation Strategies
 
