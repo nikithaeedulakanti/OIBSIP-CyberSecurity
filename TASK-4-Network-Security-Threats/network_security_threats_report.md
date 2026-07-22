@@ -59,13 +59,19 @@ IP spoofing has been widely used in Distributed Reflection Denial-of-Service (DR
 ## DNS Poisoning / DNS Spoofing
 
 ### Explanation
+DNS Poisoning, also known as DNS Spoofing, is an attack in which false DNS information is inserted into a DNS cache. As a result, users attempting to visit a legitimate website are redirected to a malicious website without their knowledge. Attackers use this technique to steal login credentials, financial information, or distribute malware.
 
 ### Real-World Example
-
+The Kaminsky DNS Cache Poisoning Attack (2008) exposed a major weakness in the DNS protocol. Security researcher Dan Kaminsky discovered that attackers could poison DNS caches and redirect users to fake websites. This discovery led to emergency security updates across many DNS providers.
 ### Impact
-
+- Users are redirected to fake websites.
+- Login credentials and sensitive information can be stolen.
+- Malware can be distributed to victims.
+- Organizations may lose customer trust and suffer financial damage.
 ### Mitigation Strategies
-
+1. Enable DNSSEC (Domain Name System Security Extensions).
+2. Regularly update and secure DNS servers.
+3. Monitor DNS traffic and protect DNS caches from unauthorized modifications.
 ## Comparison Table
 
 ## Conclusion
